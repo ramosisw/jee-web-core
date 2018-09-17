@@ -1,0 +1,11 @@
+com.ramosisw.jee.web.core.api
+com.ramosisw.jee.web.core.api.ex
+com.ramosisw.jee.web.core.api.ifc
+com.ramosisw.jee.web.core.api.to
+com.ramosisw.jee.web.core.api.util
+com.ramosisw.jee.web.core.pl.dao
+com.ramosisw.jee.web.core.pl.ex
+com.ramosisw.jee.web.core.ws
+com.ramosisw.jee.web.core.ws.rest
+com.ramosisw.jee.web.core.ws.rest.messages
+com.ramosisw.jee.web.core.ws.to
