@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>jee-web-core</groupId>
   <artifactId>jee-web-core</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.1</version>
   <name>JavaEE web core</name>
   <description>Core for develop web app with wildfly</description>
   <build>
